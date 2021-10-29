@@ -1,7 +1,8 @@
 👋 Hi, I'm Vinícius.
-👀 I'm interested in back-end and front-end area.
-✏️ Studying Analysis and Systems Developments
 
+👀 I'm interested in back-end and front-end area.
+
+✏️ Studying Analysis and Systems Developments
 
 
 ## Contact
