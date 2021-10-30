@@ -2,7 +2,7 @@
 
 👀 I'm interested in back-end and front-end area.
 
-✏️ Studying Analysis and Systems Developments
+✏️ Studying Analysis and Systems Developments.
 
 
 ### Contact
