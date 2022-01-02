@@ -1,6 +1,6 @@
 👋 Hi, I'm Vinícius.
 
-👀 Front-end / Back-end.
+👀 Front / Back-end.
 
 ✏️ Analysis and Systems Developments.
 
