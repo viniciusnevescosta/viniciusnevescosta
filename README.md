@@ -6,6 +6,7 @@
 
 ### Contact
 📫 Send an email to: vinicius.nevesco@gmail.com
+🧑 LinkedIn: https://www.linkedin.com/in/nevesco/
 
 ##
 
