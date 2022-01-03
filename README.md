@@ -5,7 +5,7 @@
 ✏️ Analysis and Systems Developments.
 
 ### Contact
-📫 Send an email to: vinicius.nevesco@gmail.com
+📫 Send an email to: vinicius.nevesco@gmail.com<br/>
 🧑 LinkedIn: https://www.linkedin.com/in/nevesco/
 
 ##
