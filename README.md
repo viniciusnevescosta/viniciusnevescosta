@@ -1,6 +1,6 @@
 👋 Hi, I'm Vinícius.
 
-👀 Front / Back-end.
+👀 Full stack.
 
 ✏️ Analysis and Systems Developments.
 
