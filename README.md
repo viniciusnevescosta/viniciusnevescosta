@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Jolonte/0c86f2d0d8777c6707fc4c8f638adf0c/raw/a21fb5fc3a7cbca81e6cc56910d6d26e0feb4daa/mygithubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinícius</h1>
+<h1 align="left">Hi, I'm Vinícius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jolonte&color=blueviolet" alt="Profile views" /> </p>
 
 - 🔥 Junior developer and student focusing on always improving
