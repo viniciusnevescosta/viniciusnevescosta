@@ -4,8 +4,6 @@
 
 - 🔥 Junior developer and student focusing on always improving
 
-- 🔭 Currently focusing on my TCC with the [Frog Developers](https://github.com/FrogDevs)
-
 - 👨‍💻 all of me to you available in my [Links](https://vinicius-costa-links.vercel.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS and VB.NET**
