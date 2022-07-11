@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Vinícius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jolonte&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Junior developer and student focusing on always improving
+- 🔥 Developer and student focusing on always improving
 
 - 👨‍💻 all of me to you available in my [Links](https://vinicius-costa-links.vercel.app/)
 
