@@ -16,6 +16,7 @@ Official [Links](https://vinicius-costa-links.vercel.app/).
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![VueJs](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vuejs)
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-05122A?style=flat&logo=capacitor)
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
