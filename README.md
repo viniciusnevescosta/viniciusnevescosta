@@ -1,16 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Jolonte/0c86f2d0d8777c6707fc4c8f638adf0c/raw/a21fb5fc3a7cbca81e6cc56910d6d26e0feb4daa/mygithubcard.svg"/>
-<h1 align="left">Hi, I'm Vinícius</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jolonte&color=blueviolet" alt="Profile views" /> </p>
+<div align="center">
+  <img align="center" src="https://i.imgur.com/6ZWiqUE.png" />
+</div>
 
-- 🔥 Developer and student focusing on always improving
+## Developer and programmer ☕
 
-- 👨‍💻 all of me to you available in my [Links](https://vinicius-costa-links.vercel.app/)
+Official [Links](https://vinicius-costa-links.vercel.app/).
 
-- 💬 Ask me about **JavaScript, HTML, CSS and VB.NET**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+### Teck Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![JQuery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
