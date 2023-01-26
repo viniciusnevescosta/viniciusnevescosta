@@ -21,3 +21,4 @@ Official [Links](https://vinicius-costa-links.vercel.app/).
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Fedora Linux](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora)
