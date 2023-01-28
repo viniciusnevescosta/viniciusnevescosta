@@ -2,7 +2,7 @@
   <img align="center" src="https://i.imgur.com/PPgCjPb.png" />
 </div>
 
-## Developer and programmer ☕
+## Hi! About me... 
 
 Official [Links](https://vinicius-costa-links.vercel.app/).
 
