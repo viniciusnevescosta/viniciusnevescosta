@@ -8,8 +8,6 @@ Official [Links](https://vinicius-costa-links.vercel.app/).
 
 ### Teck Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwindcss)
