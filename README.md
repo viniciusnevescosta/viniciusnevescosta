@@ -1,12 +1,13 @@
-### Hi! About me...
+### Hi there! 👋 About me...
 
-Currently working at MTP Brasil under the position of IT Assistant.
+<b>Current Position:</b> IT Assistant at MTP Brasil.
 
-- [Linkedin](https://www.linkedin.com/in/nevesco/)
-- [Portfolio (Current working...)](https://www.linkedin.com/in/nevesco/)
-- [Resume (Current working...)](https://www.linkedin.com/in/nevesco/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nevesco/)<br>
+📁 [Portfolio (Under construction...)](COLOQUE_AQUI_O_SEU_LINK_DO_PORTFOLIO)<br>
+📄 [Resume (Under construction...)](COLOQUE_AQUI_O_SEU_LINK_DO_CURRICULO)<br>
+📝 [My personal blog (Under construction...)](COLOQUE_AQUI_O_SEU_LINK_DO_BLOG)<br>
 
-### Teck Stack
+### Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
@@ -20,3 +21,10 @@ Currently working at MTP Brasil under the position of IT Assistant.
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+
+### Languages
+
+- Portuguese<br>
+- English
+
+Feel free to explore my work and get in touch! 😊
