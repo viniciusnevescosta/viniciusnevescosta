@@ -13,15 +13,7 @@ See my [roadmap of personal projects for 2024](https://github.com/users/vinicius
 
 ### Tech Stack
 
-- <b>Front-end:</b><br>
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs) ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic) ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)
-
-- <b>Back-end:</b><br>
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node) ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) ![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno)
-
-- <b>Database:</b><br>
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) 
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs) ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic) ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron) ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node) ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) ![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) 
 
 ### Languages
 
