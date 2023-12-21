@@ -26,9 +26,4 @@ I'm passionate about leveraging technology to solve real-world problems. Current
 - Portuguese
 - English
 
-### Achievements
-
-- **Outstanding TCC:** Received recognition for the outstanding Thesis in my Technical Degree. Check out the [GitHub repository](https://github.com/FrogDevs/TCC) for more details.
-- **Google Event Award:** Awarded at a Google Startup in School event. You can find more details in the [published article](https://www.linkedin.com/feed/update/urn:li:activity:6950625561165598720/).
-
 Feel free to explore my work and [get in touch](https://www.linkedin.com/in/nevesco/) for collaborations or just a tech chat! 😊
