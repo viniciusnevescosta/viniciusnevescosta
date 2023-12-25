@@ -7,8 +7,8 @@ See my [roadmap of personal projects for 2024](https://github.com/users/vinicius
 ### Links
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nevesco/)  
-📁 [Portfolio (Under construction...)]()  
-📄 [Resume (Under construction...)]()  
+📁 [Portfolio (Under construction...)](https://github.com/viniciusnevescosta/portfolio)  
+📄 [Resume (Under construction...)](https://github.com/viniciusnevescosta/portfolio)  
 📝 [My personal blog (Under construction...)]()
 
 ### Tech Stack
