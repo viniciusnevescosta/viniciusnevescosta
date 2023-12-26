@@ -20,4 +20,4 @@ See my [roadmap of personal projects for 2024](https://github.com/users/vinicius
 - Portuguese
 - English
 
-Feel free to explore my work and [get in touch](https://www.linkedin.com/in/nevesco/) for collaborations or just a tech chat! 😊
+Feel free to explore my work and [get in touch](https://www.linkedin.com/in/nevesco/) for collaborations or just a tech chat!
