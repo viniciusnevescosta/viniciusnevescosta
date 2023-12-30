@@ -9,7 +9,7 @@ See my [roadmap of personal projects for 2024](https://github.com/users/vinicius
 🔗 [LinkedIn](https://www.linkedin.com/in/nevesco/)  
 📁 [Portfolio (Under construction...)](https://github.com/viniciusnevescosta/portfolio)  
 📄 [Resume (Under construction...)](https://github.com/viniciusnevescosta/portfolio)  
-📝 [My personal articles](https://medium.com/@viniciusnevescosta)
+📝 [Articles](https://medium.com/@viniciusnevescosta)
 
 ### Tech Stack
 
