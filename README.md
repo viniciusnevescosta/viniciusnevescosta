@@ -2,7 +2,7 @@
 
 I'm passionate about leveraging technology to solve real-world problems. Currently working as an IT Assistant at MTP Brasil, and pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. I am also proud to hold an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/517fd129-d1e7-4851-a9f7-09a2abadbf01/linked_in?t=s0xbxa).<br>
 
-See my [roadmap of personal projects for 2024](https://github.com/users/viniciusnevescosta/projects/3/views/1).
+See my [roadmap of personal projects.](https://github.com/users/viniciusnevescosta/projects/3/views/1).
 
 ### Links
 
