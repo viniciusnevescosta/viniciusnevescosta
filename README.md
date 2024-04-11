@@ -5,8 +5,7 @@ I'm passionate about leveraging technology to solve real-world problems. Current
 ### Links
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nevesco/)  
-📁 [Portfolio (Under construction...)](https://github.com/viniciusnevescosta/portfolio)  
-📄 [Resume (Under construction...)](https://github.com/viniciusnevescosta/portfolio)  
+🌎 [My Website](https://github.com/viniciusnevescosta/portfolio)  
 📝 [Articles](https://medium.com/@viniciusnevescosta)
 
 ### Languages
