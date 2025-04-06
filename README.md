@@ -2,4 +2,4 @@
 
 I'm Vinícius, passionate about leveraging technology to solve real-world problems creatively.
 
-Feel free to explore my work, connect, or [get in touch](mailto:vinicius.nevesco@gmail.com).
+Feel free to explore my work, connect, or [get in touch](mailto:contact@viniciusnevescosta.com).
