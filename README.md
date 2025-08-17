@@ -1,5 +1,1 @@
-### Hi there! 👋 About Me...
-
-I'm Vinícius, passionate about leveraging technology to solve real-world problems creatively.
-
-Feel free to explore my work, connect, or [get in touch](mailto:contact@viniciusnevescosta.com).
+I'm moving from github, for now you can see my current projects on [Gitea](https://gitea.com/viniciusnevescosta).
