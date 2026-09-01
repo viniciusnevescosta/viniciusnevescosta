@@ -1,5 +1,3 @@
-# Vinicius
-
 I am currently developing my skills in software engineering and data science, with a focus on applying strong technical foundations to practical problems.
 
 ## Current Focus
